@@ -6,4 +6,4 @@ I'm a Computer Science undergrad at UNC Charlotte, passionate about building sca
 - 🧑‍🏫 Peer Tutor @ UCAE | CodePath Tech Fellow
 - 💃 Also into dance, art, and music – catch me choreographing when I'm not coding
 
-📫 Let's connect: [LinkedIn](https://linkedin.com/in/ketan-kumar) | [GitHub Projects](#projects)
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/ketan-kumar-023348252/)
